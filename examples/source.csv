@@ -1,0 +1,3 @@
+id,text
+welcome,Hello {player}!
+reward,Collect #c00aa00@item_42##n.\nProgress: @goal_1#
